@@ -5,4 +5,4 @@ The tests' descriptions are either on the first lines of a single file test or o
 
 Repositories for tests solved using other languages are available.
 
-* Snake - Simple Javascript snake game  [Play here](https://murilolh.github.io/snake/)
+* snake - Simple Javascript snake game  [Play here](https://murilolh.github.io/snake/)
